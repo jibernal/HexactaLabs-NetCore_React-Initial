@@ -109,7 +109,7 @@ El único método requerido es `render()` y es donde se describe mediante JSX la
 
 ### Estado (State)
 
-Los componentes de tipo clase puede mantener estado interno, con cualquier información que sea pertinente para llevar a cabo su función y que esta no sea necesaria fuera del mismo. Por ejemplo, conservar los datos de un fetch para luego mostrarlos en el `render()`.
+Los componentes de tipo clase puede mantener estado interno, con cualquier información que sea pertinente para llevar a cabo su función y que esta no sea necesaria fuera del mismo. Por ejemplo, obtener datos ya sea de un servicio remoto o de una base de datos local y  conservarlos para luego mostrarlos en el `render()`.
 
 Para usar esta funcionalidad se debe declarar el estado inicial en el constructor del componente para luego poder ser actualizado usando el método de instancia `setState()`.
 
