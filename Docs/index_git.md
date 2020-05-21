@@ -3,7 +3,7 @@ Para trabajar vamos a utilizar la herramienta Git, que es un VCS (version contro
 Github será el servicio que almacenará nuestros proyectos en la nube, existen otros como Bitbucket, Gitlab, Azure Devops.
 
 1. Instalar Visual Studio Code. [Link](https://code.visualstudio.com/)
-1. Crear una carpeta __HxLabs__ y abrir Visual Studio Code en la misma
+1. Crea en tu PC, en cualquier ubicación de tu disco duro, una carpeta __HxLabs__ y abre luego Visual Studio Code en la misma
 1. Ir a la web del proyecto correspondiente y crear un "fork" desde el botón
 ![forks](./images/forks_example.png)
 
